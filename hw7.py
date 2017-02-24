@@ -2,13 +2,9 @@ from sortedcontainers import SortedDict
 
 #
 # use this to show options
+# hey you forgot line of comments
 #
 def print_menu():
-    print('1. Print Users')
-    print('2. Add a User')
-    print('3. Remove a User')
-    print('4. Lookup a Phone Number')
-    print('5. Quit')
     print()
 
 # Create dictionary with key = Names, value = user_name
